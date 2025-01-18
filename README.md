@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish raj</h1>
 <h3 align="center">Software Engineer</h3>
 
-<img align="right" alt="Matrix" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJ5NW5zb25iMXIxN2gzcjZrOWJ2MnQzemVjMTB3cXNvOXgxaXo4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/quEsMOrr3hmQ8/giphy.gif">
+<img align="right" alt="Matrix" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJ5NW5zb25iMXIxN2gzcjZrOWJ2MnQzemVjMTB3cXNvOXgxaXo4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/quEsMOrr3hmQ8/giphy.gif" style="padding:20px;">
 
 - 💬 Ask me about **Full Stack Development**
 
