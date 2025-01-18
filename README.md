@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashish raj</h1>
 <h3 align="center">Software Engineer</h3>
 
+<img align="right" alt="Matrix" width="400" src="![image](https://github.com/user-attachments/assets/e73d965b-25eb-4fef-a847-e7201e1d51fb)
+">
+
 - 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **ashishrajlife@gmail.com**
