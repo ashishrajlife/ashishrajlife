@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish raj</h1>
 <h3 align="center">Software Engineer</h3>
 
-<img align="right" alt="Matrix" width="400" src="![image](https://github.com/user-attachments/assets/e73d965b-25eb-4fef-a847-e7201e1d51fb)
-">
+<img align="right" alt="Matrix" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fthe-matrix-movies&psig=AOvVaw38FbG1gEmLyOj0WitSA_LA&ust=1737274692935000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJiLq9jq_ooDFQAAAAAdAAAAABAJ">
 
 - 💬 Ask me about **Full Stack Development**
 
