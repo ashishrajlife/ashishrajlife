@@ -59,16 +59,16 @@ I’m a **Full Stack .NET Developer** passionate about building scalable web app
 
 ```text
 ┌─────────────────────────────────────────────────────────┐
-│                  FULL STACK DEVELOPMENT                  │
+│                  FULL STACK DEVELOPMENT                 │
 ├─────────────────────────────────────────────────────────┤
 │                                                         │
-│   🌐 Web Applications       🔌 REST APIs                │
+│   🌐 Web Applications       🔌 REST APIs               │
 │                                                         │
-│   🛒 E-Commerce             📊 ERP Systems              │
+│   🛒 E-Commerce             📊 ERP Systems             │
 │                                                         │
-│   💳 Payment Integration    🔐 Authentication            │
+│   💳 Payment Integration    🔐 Authentication          │
 │                                                         │
-│   🗄️ Database Systems       ☁️ Cloud Deployment         │
+│   🗄️ Database Systems       ☁️ Cloud Deployment        │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
